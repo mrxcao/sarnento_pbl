@@ -1,0 +1,20 @@
+{
+  "name": "sarnento_pbl",
+  "version": "1.0.0",
+  "description": "A publish repositore to link with my hostgator server and controll de front-end versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publ": "git add . && git commit -m \"teste pbl\" && git push all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrxcao/sarnento_pbl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrxcao/sarnento_pbl/issues"
+  },
+  "homepage": "https://github.com/mrxcao/sarnento_pbl#readme"
+}
